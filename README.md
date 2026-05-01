@@ -32,7 +32,7 @@ https://vmpetkov90.github.io/todo-app/
 - Google Fonts (Jost)  
 - Font Awesome Icons  
 
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+---
+
+## 📸 Preview
+*(Add a screenshot here — drag & drop into GitHub)*
