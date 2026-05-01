@@ -10,7 +10,7 @@ A modern, gradient‑styled to‑do list app built with **HTML**, **CSS**, and *
 
 ## 🔗 Live Demo
 👉 **View the app here:**  
-https://your-username.github.io/your-repo-name/
+[https://your-username.github.io/your-repo-name/](https://vmpetkov90.github.io/todo-app/)
 
 ---
 
