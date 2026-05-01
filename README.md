@@ -35,4 +35,5 @@ https://vmpetkov90.github.io/todo-app/
 ---
 
 ## 📸 Preview
-*(Add a screenshot here — drag & drop into GitHub)*
+<img width="100%" alt="Screenshot 2026-05-01 225837" src="https://github.com/user-attachments/assets/497a0a3c-9234-4a34-acd9-9080faf7f2ac" />
+
